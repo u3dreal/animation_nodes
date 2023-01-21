@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-      - v2.2-for-blender-v2.93
+      - v2.2-for-blender-v3.0
   pull_request:
     branches:
       - master
